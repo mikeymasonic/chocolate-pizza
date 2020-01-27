@@ -1,0 +1,75 @@
+body {
+    background-color: black;
+   
+}
+
+#page {
+    margin: auto;
+    background-color: white;
+    width: 1024px;
+    padding: 50px 100px 50px 100px;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100px;
+}
+
+#logo-pic {
+    height: 65px
+}
+
+#logo {
+    float: left;
+}
+
+#media {
+    margin-top: 25px;
+  float: right;
+  display: inline;
+}
+
+#spacer {
+    margin-left: 15px;
+}
+
+#horz-bar {
+    height: 10px;
+    background-image: url(./images/hr-img.png);
+    clear: both;
+    margin: 10px 0px 10px 0px;
+}
+
+h1 {
+    float: left;
+    font-weight: 0px;
+}
+
+#date {
+    clear: both;
+}
+
+#print-button {
+    float: right;
+}
+
+#p-text {
+    width: 1200px;
+}
+
+#background-list-img {
+    background-image: url('images/list-bg.png');
+}
+
+#left-col {
+    margin-left: 50px;
+    float: left;
+}
+
+#right-col {
+    margin-right: 50px;
+    clear: all;
+    float: right;
+}
+
+
