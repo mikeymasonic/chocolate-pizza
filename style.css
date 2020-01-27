@@ -15,6 +15,29 @@ header {
     height: 100px;
 }
 
+#choco-pizza {
+    float:left;
+
+    font-size: xx-large;
+
+    font-family: 'Oswald', sans-serif;
+
+    padding: 0px;
+
+    margin: 50px 0px 0px 0px;
+
+}
+
+#date {
+    color: gray;
+    opacity: 50%;
+    float:left;
+    clear: both;
+    margin-bottom: 50px;
+    font-size: x-small;
+
+}
+
 #logo-pic {
     height: 65px
 }
@@ -25,6 +48,7 @@ header {
 
 #media {
     margin-top: 25px;
+    margin-bottom: 55px;
     float: right;
     display: inline;
 }
@@ -45,12 +69,16 @@ h1 {
     font-weight: 0px;
 }
 
-#date {
-    clear: both;
-}
-
 #print-button {
     float: right;
+    color: gray;
+    opacity: 50%;
+}
+
+#hero-img img {
+   width: 825px;
+   margin-top: -15px;
+
 }
 
 #p-text {
