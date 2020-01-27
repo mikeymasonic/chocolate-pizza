@@ -217,3 +217,7 @@ hr {
     text-align: center;
     opacity: 70%;
 }
+
+#horz-bar {
+    margin-top: 40px;
+}
