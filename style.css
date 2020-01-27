@@ -103,6 +103,7 @@ h1 {
     float: right;
 }
 
+
 .nobull {
     list-style-type: none;
    }
@@ -150,5 +151,69 @@ input[type=checkbox]:checked:after {
 
 
 
+#writer-bio-pic {
+    display: block;
+    float: left;
+    margin: 25px;
+    margin-top: 5px;
+}
 
+#writer-bio-name {
+    margin-top: 15px;
+    font-family: 'Oswald', sans-serif ;
+    font-size: large;
+    font-weight: bold;
+    display: inline;
+    clear:all;
+    opacity: 70%;
+}
 
+#writer-bio-text {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    display: block;
+    opacity: 70%;
+    width: 600px;
+}
+
+#share-recipe {
+    float: right;
+    height: 25px;
+    text-align: center;
+    margin-top: -115px;
+    background-color: rgb(156, 74, 60);
+    padding: 15px 20px 10px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: Times, 'Times New Roman', serif;
+}
+
+#logo-icon {
+    text-align: center;
+    margin: -25px 0px 0px 400px;
+    display: inline-block;
+}
+
+#logo-icon img{
+    width: 30px;
+
+}
+
+hr {
+    margin-top: 20px;
+}
+
+#copyrightOne {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: lighter;
+    opacity: 70%;
+}
+
+#copyrightTwo {
+    text-align: center;
+    opacity: 70%;
+}
